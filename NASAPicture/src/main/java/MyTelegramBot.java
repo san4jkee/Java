@@ -9,8 +9,8 @@ import java.io.IOException;
 
 public class MyTelegramBot extends TelegramLongPollingBot {
 
-    public static final String BOT_TOKEN = "5683376723:AAH6xIgFgWZeLu7mNFOzDign7Od_b47ZR0s";
-    public static final String BOT_USERNAME = "san4jkeeGPT_bot";
+    public static final String BOT_TOKEN = "BOT_TOKEN";
+    public static final String BOT_USERNAME = "BOT_USERNAMEt";
     public static final String URI = "https://api.nasa.gov/planetary/apod?api_key=bQ9RgFptoHgkafxT4nemj1SuUDTJftu42fnQBw07";
     public static long chat_id;
 
